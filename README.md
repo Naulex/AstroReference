@@ -7,3 +7,5 @@
 Или посмотрите демонстрационный видеоролик:
 
 https://drive.google.com/file/d/1BW_YkFFhpQKvUqp2a0vCw5ttkkaVx3pd
+
+Скрипты вы сможете найти в папке "AstroReferenceScripts"
